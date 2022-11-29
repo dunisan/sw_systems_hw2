@@ -25,7 +25,7 @@ int main() {
                 shortestPath(i,j);
                 continue;
             case 'D': // exit the while loop
-                exit(1);
+                exit(0);
         }
     }
 
